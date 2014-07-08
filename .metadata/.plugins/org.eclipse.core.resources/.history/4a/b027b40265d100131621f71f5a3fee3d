@@ -1,0 +1,21 @@
+
+public class Solution {
+
+	public int candy(int[] ratings) {
+		int inputLength = ratings.length;
+		
+		if(inputLength==0) 
+			System.exit(0);
+		
+		int[] count = new int[inputLength];
+		
+		int[][] order = new int[inputLength][inputLength];
+		
+		for(int i=0; i<inputLength; i++){
+			
+		}
+		
+		return 0;
+        
+    }
+}

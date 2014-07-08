@@ -1,0 +1,13 @@
+
+public class Solution {
+
+	public int candy(int[] ratings) {
+		int inputLength = ratings.length;
+		int[] count = new int[inputLength];
+		
+		
+		
+		return 0;
+        
+    }
+}
