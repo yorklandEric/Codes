@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 git tracks changes.
 Test Git no-ff.
-Co-Working on new Feature.
+Co-Working and working on new Feature.
